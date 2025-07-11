@@ -63,5 +63,4 @@ These filters allow users to drill down into specific regions or customer segmen
 
 ---
 
-## 🗂 Project Structure
 
