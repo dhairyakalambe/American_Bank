@@ -1,4 +1,4 @@
-# 🇺🇸 America Bank Dashboard
+# America Bank Dashboard
 An interactive Power BI dashboard that provides a comprehensive analysis of banking customer data across various demographic and regional segments.
 
 ![America Bank Dashboard](Screenshot.png)
